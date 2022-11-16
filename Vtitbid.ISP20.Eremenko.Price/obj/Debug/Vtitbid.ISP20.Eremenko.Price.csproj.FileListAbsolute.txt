@@ -1,0 +1,16 @@
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\bin\Debug\Vtitbid.ISP20.Eremenko.Price.exe.config
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\bin\Debug\Vtitbid.ISP20.Eremenko.Price.exe
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\bin\Debug\Vtitbid.ISP20.Eremenko.Price.pdb
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\obj\Debug\Vtitbid.ISP20.Eremenko.Price.csproj.AssemblyReference.cache
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\obj\Debug\Vtitbid.ISP20.Eremenko.Price.csproj.SuggestedBindingRedirects.cache
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\obj\Debug\Vtitbid.ISP20.Eremenko.Price.csproj.CoreCompileInputs.cache
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\obj\Debug\Vtitbid.ISP20.Eremenko.Price.exe
+C:\Users\kerem\OneDrive\Рабочий стол\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\obj\Debug\Vtitbid.ISP20.Eremenko.Price.pdb
+E:\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\bin\Debug\Vtitbid.ISP20.Eremenko.Price.exe.config
+E:\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\bin\Debug\Vtitbid.ISP20.Eremenko.Price.exe
+E:\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\bin\Debug\Vtitbid.ISP20.Eremenko.Price.pdb
+E:\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\obj\Debug\Vtitbid.ISP20.Eremenko.Price.csproj.AssemblyReference.cache
+E:\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\obj\Debug\Vtitbid.ISP20.Eremenko.Price.csproj.SuggestedBindingRedirects.cache
+E:\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\obj\Debug\Vtitbid.ISP20.Eremenko.Price.csproj.CoreCompileInputs.cache
+E:\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\obj\Debug\Vtitbid.ISP20.Eremenko.Price.exe
+E:\Vtitbid.ISP20.Eremenko.Price\Vtitbid.ISP20.Eremenko.Price\obj\Debug\Vtitbid.ISP20.Eremenko.Price.pdb
